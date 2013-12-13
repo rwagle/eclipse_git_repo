@@ -13,6 +13,8 @@ public class Hello {
 		
 		HelloFix helloFix = new HelloFix ();
 		helloFix.doSomething();
+		
+		// Adding a comment to confirm that Issue53 is resolved.
 
 	}
 
