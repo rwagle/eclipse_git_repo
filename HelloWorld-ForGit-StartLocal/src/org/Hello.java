@@ -11,6 +11,7 @@ public class Hello {
 		System.out.println ("Ok, now with some improvements");
 		System.out.println ("More improvements 12/10/2013 @ 5:03 pm");
 
+		System.out.print("Doing an emergency production hotfix 12/12/2013 @ 7:26 pm");
 	}
 
 }
